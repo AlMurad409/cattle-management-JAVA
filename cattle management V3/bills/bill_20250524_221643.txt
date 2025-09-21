@@ -1,0 +1,18 @@
+=== CATTLE MANAGEMENT BILL ===
+
+--- SELECTED ITEMS ---
+Deshi Cow                      $120000.00
+Imported Cow                   $200000.00
+Angus Beef Cow                 $355000.00
+Imported Goat                  $20000.00
+
+--- DELIVERY DETAILS ---
+Delivery Date: 2025-06-05
+Delivery Address: 123 abc street , dhaka , 1209
+
+----------------------------------------
+TOTAL AMOUNT:                  $695000.00
+----------------------------------------
+
+Thank you for your order!
+

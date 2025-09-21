@@ -1,0 +1,16 @@
+====== CATTLE MANAGEMENT BILL ======
+
+------ SELECTED ITEMS ------
+Imported Cow                   $200000.00
+Imported Goat                  $20000.00
+
+--- DELIVERY DETAILS ---
+Delivery Date: 09-11-2001
+Delivery Address: World Trade Center , New york , USA
+
+----------------------------------------
+TOTAL AMOUNT:                  $220000.00
+----------------------------------------
+
+Thank you for your order!
+

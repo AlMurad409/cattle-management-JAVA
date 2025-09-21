@@ -1,0 +1,19 @@
+=== CATTLE MANAGEMENT BILL ===
+
+--- SELECTED ITEMS ---
+Deshi Cow                      $120000.00
+Imported Cow                   $200000.00
+Angus Beef Cow                 $355000.00
+Brahman Cow                    $230000.00
+Deshi Goat                     $30000.00
+
+--- DELIVERY DETAILS ---
+Delivery Date: 2009-11-9
+Delivery Address: new york , trade center
+
+----------------------------------------
+TOTAL AMOUNT:                  $935000.00
+----------------------------------------
+
+Thank you for your order!
+
